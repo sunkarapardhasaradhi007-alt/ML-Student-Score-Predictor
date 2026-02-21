@@ -44,5 +44,19 @@ This project demonstrates understanding of:
 - Error evaluation
 - Data preprocessing
 
+## Project Output
+![Output](output.png)
+
+## Project Structure
+├── student_score_predictor.py  
+├── requirements.txt  
+├── output.png  
+└── README.md  
+
+## Future Improvements
+- Add web interface
+- Use multiple regression
+- Deploy model online
+
 ## Author
 SUNKARA PARDHASARADHI
